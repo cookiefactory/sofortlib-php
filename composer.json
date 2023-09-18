@@ -1,5 +1,5 @@
 {
-	"name": "sofort/sofortlib-php",
+	"name": "thomann/sofortlib-php",
 	"description": "SOFORT API wrapper for PHP",
 	"license": "LGPL-3",
 	"authors": [
